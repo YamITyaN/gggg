@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+footer img{
+    margin: 10px;
+}
+
+header {
+    background-color: lightblue;
+    height: 50px;
+}
+
+title {
+    font-size: 30px;
+}
+
+h1 {
+    color: tomato;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid tomato;
+}
+
+main li {
+    padding: 5px;
+    color: black;
+    box-shadow: 0 3px 0px green;
+}
+
+main h1{
+    background-color: yellowgreen;
+    box-shadow: 0 0 30px;
+}
+
+main h2{
+    background-color: yellowgreen;
+}
+
+div{
+    background-color: lightgreen;
+}
+
+footer {
+    background-color: limegreen;
+}
+
+header a {
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid aqua;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: aqua;
+    box-shadow: 0 10px 30px black;
+}
+
+img {
+    margin: 10px;
+}
